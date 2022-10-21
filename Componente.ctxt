@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Componente
+comment0.text=\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ Componente\ aqui.\n\ \n\ @author\ (seu\ nome)\ \n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\n
+comment1.params=
+comment1.target=java.lang.String\ getNomeMusica()
+comment2.params=
+comment2.target=java.lang.String\ getNomeBanda()
+comment3.params=
+comment3.target=int\ getAno()
+comment4.params=
+comment4.target=void\ exibirInformacoes()
+comment5.params=_param
+comment5.target=void\ adiciona(Componente)
+numComments=6
