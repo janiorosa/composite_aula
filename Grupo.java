@@ -21,7 +21,7 @@ public class Grupo extends Componente
         this.nomeAlbum=_nome;
         this.descricao=_descr;
     }
-    
+    //Teste
     public void adiciona(Componente _param){
         album.add(_param);
     }
